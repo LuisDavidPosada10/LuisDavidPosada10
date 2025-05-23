@@ -115,3 +115,9 @@ They say I’m "chill", but once I start coding — it’s game on. Nothing beat
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
+
+## 📬 Contact
+
+- Email: [posadaluis451@gmail.com](mailto:posadaluis451@gmail.com)
+- Portfolio: [luisda.netlify.app](https://luisda.netlify.app/)
+- LinkedIn: [Luis Posada](https://www.linkedin.com/in/luisdavid23/)
